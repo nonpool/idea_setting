@@ -1,0 +1,33 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.gradle;.hg;.idea;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
+    <extensionMap>
+      <mapping pattern="AiEtlGenerator" type="AUTO_DETECTED" />
+      <mapping pattern="docker-compose" type="AUTO_DETECTED" />
+      <mapping pattern="Dokerfile" type="AUTO_DETECTED" />
+      <mapping pattern="test" type="AUTO_DETECTED" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping ext="jenkinsfile" type="Groovy" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".gitKeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="7" type="PLAIN_TEXT" />
+      <mapping ext="processor" type="PLAIN_TEXT" />
+      <mapping ext="dcokerfile" type="PLAIN_TEXT" />
+      <mapping ext="lic" type="PLAIN_TEXT" />
+      <mapping ext="dodkerfile" type="PLAIN_TEXT" />
+      <mapping ext="2" type="PLAIN_TEXT" />
+      <mapping ext="3" type="PLAIN_TEXT" />
+      <mapping ext="4" type="PLAIN_TEXT" />
+      <mapping ext="6" type="PLAIN_TEXT" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping pattern=".eslintignore" approved="true" type="ESLint File" />
+      <removed_mapping pattern=".jshintignore" approved="true" type="JSHint File" />
+      <removed_mapping pattern=".npmignore" approved="true" type="Npm File" />
+      <removed_mapping pattern=".stylelintignore" approved="true" type="StyleLint File" />
+    </extensionMap>
+  </component>
+</application>
